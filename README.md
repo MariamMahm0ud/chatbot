@@ -1,5 +1,6 @@
 
 # 🤖 Chatbot with PDF Knowledge Base  
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MariamMahm0ud/chatbot)
 
 ## 📌 Project Overview  
 This project is an **AI-powered chatbot** capable of answering user queries based on the content of uploaded PDF books. It uses **ChromaDB** for storing and retrieving text, **Sentence Transformers** for semantic search, and **Ollama** for generating responses.
